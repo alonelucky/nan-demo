@@ -11,6 +11,10 @@
     "demo",
     "addon"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/xiaqiubo/nan-demo.git"
+  },
   "author": "xiaoyiyu",
   "license": "MIT",
   "dependencies": {
